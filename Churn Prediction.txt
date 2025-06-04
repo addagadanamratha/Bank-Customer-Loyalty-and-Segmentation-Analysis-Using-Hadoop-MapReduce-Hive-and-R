@@ -1,0 +1,14 @@
+BFBR875138BZ	Bonnie | Total Spent Recent: 3944.00 | Avg Spent Recent: 1972.00 | Total Spent Past: 7076.00 | Avg Spent Past: 3538.00 | Status: Loyal
+BMHX832394HI	Beryl | Total Spent Recent: 0.00 | Avg Spent Recent: 0.00 | Total Spent Past: 11007.00 | Avg Spent Past: 2751.75 | Status: At-Risk
+BOFX584607FM	Bill | Total Spent Recent: 13489.00 | Avg Spent Recent: 3372.25 | Total Spent Past: 0.00 | Avg Spent Past: 0.00 | Status: Loyal
+HHBH449945BH	Barry | Total Spent Recent: 4811.00 | Avg Spent Recent: 2405.50 | Total Spent Past: 6013.00 | Avg Spent Past: 3006.50 | Status: Loyal
+JQOX824533OJ	Bertha | Total Spent Recent: 1493.00 | Avg Spent Recent: 1493.00 | Total Spent Past: 6053.00 | Avg Spent Past: 2017.67 | Status: Loyal
+JRWG458623WI	Alberto | Total Spent Recent: 0.00 | Avg Spent Recent: 0.00 | Total Spent Past: 10266.00 | Avg Spent Past: 2566.50 | Status: At-Risk
+KGNZ630334NA	Arlene | Total Spent Recent: 9464.00 | Avg Spent Recent: 3154.67 | Total Spent Past: 3751.00 | Avg Spent Past: 3751.00 | Status: Loyal
+KNBL191477BE	Ana | Total Spent Recent: 11350.00 | Avg Spent Recent: 3783.33 | Total Spent Past: 3304.00 | Avg Spent Past: 3304.00 | Status: Loyal
+LSGS200789GG	Arthur | Total Spent Recent: 3830.00 | Avg Spent Recent: 1915.00 | Total Spent Past: 6960.00 | Avg Spent Past: 3480.00 | Status: Loyal
+NPIQ652416IZ	Cristobal | Total Spent Recent: 7204.00 | Avg Spent Recent: 2401.33 | Total Spent Past: 1905.00 | Avg Spent Past: 1905.00 | Status: Loyal
+OBIC304336IX	Bret | Total Spent Recent: 12940.00 | Avg Spent Recent: 4313.33 | Total Spent Past: 4293.00 | Avg Spent Past: 4293.00 | Status: Loyal
+OMOI808692OZ	Allison | Total Spent Recent: 5268.00 | Avg Spent Recent: 2634.00 | Total Spent Past: 9995.00 | Avg Spent Past: 4997.50 | Status: Loyal
+POOH283211OT	Alex | Total Spent Recent: 14058.00 | Avg Spent Recent: 3514.50 | Total Spent Past: 0.00 | Avg Spent Past: 0.00 | Status: Loyal
+UNMZ436655MA	Chantal | Total Spent Recent: 3605.00 | Avg Spent Recent: 3605.00 | Total Spent Past: 5859.00 | Avg Spent Past: 1953.00 | Status: Loyal

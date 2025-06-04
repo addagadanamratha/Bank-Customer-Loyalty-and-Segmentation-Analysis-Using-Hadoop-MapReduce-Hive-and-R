@@ -1,0 +1,14 @@
+BFBR875138BZ	Bonnie | Total Spent: 11020.00 | Avg Spent: 2755.00 | Segment: High Spender
+BMHX832394HI	Beryl | Total Spent: 11007.00 | Avg Spent: 2751.75 | Segment: High Spender
+BOFX584607FM	Bill | Total Spent: 13489.00 | Avg Spent: 3372.25 | Segment: High Spender
+HHBH449945BH	Barry | Total Spent: 10824.00 | Avg Spent: 2706.00 | Segment: High Spender
+JQOX824533OJ	Bertha | Total Spent: 7546.00 | Avg Spent: 1886.50 | Segment: High Spender
+JRWG458623WI	Alberto | Total Spent: 10266.00 | Avg Spent: 2566.50 | Segment: High Spender
+KGNZ630334NA	Arlene | Total Spent: 13215.00 | Avg Spent: 3303.75 | Segment: High Spender
+KNBL191477BE	Ana | Total Spent: 14654.00 | Avg Spent: 3663.50 | Segment: High Spender
+LSGS200789GG	Arthur | Total Spent: 10790.00 | Avg Spent: 2697.50 | Segment: High Spender
+NPIQ652416IZ	Cristobal | Total Spent: 9109.00 | Avg Spent: 2277.25 | Segment: High Spender
+OBIC304336IX	Bret | Total Spent: 17233.00 | Avg Spent: 4308.25 | Segment: High Spender
+OMOI808692OZ	Allison | Total Spent: 15263.00 | Avg Spent: 3815.75 | Segment: High Spender
+POOH283211OT	Alex | Total Spent: 14058.00 | Avg Spent: 3514.50 | Segment: High Spender
+UNMZ436655MA	Chantal | Total Spent: 9464.00 | Avg Spent: 2366.00 | Segment: High Spender

@@ -1,0 +1,14 @@
+BFBR875138BZ	Bonnie | Total Spent: 11020.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
+BMHX832394HI	Beryl | Total Spent: 11007.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+BOFX584607FM	Bill | Total Spent: 13489.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+HHBH449945BH	Barry | Total Spent: 10824.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+JQOX824533OJ	Bertha | Total Spent: 7546.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+JRWG458623WI	Alberto | Total Spent: 10266.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+KGNZ630334NA	Arlene | Total Spent: 13215.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+KNBL191477BE	Ana | Total Spent: 14654.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
+LSGS200789GG	Arthur | Total Spent: 10790.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
+NPIQ652416IZ	Cristobal | Total Spent: 9109.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
+OBIC304336IX	Bret | Total Spent: 17233.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
+OMOI808692OZ	Allison | Total Spent: 15263.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+POOH283211OT	Alex | Total Spent: 14058.00 | Transactions: 4 | Account Type: savings | Recommendation: Recommend Investment Products
+UNMZ436655MA	Chantal | Total Spent: 9464.00 | Transactions: 4 | Account Type: current | Recommendation: Recommend Premium Business Services
